@@ -26,7 +26,7 @@ public class ServletQCM extends HttpServlet {
      */
     public ServletQCM() { 
         super();
-        // TODO Auto-generated constructor stub
+        // TODO Auto-generated constructor stub test
     }
 
 	/**
